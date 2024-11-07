@@ -4,9 +4,9 @@
   "display": "standalone",
   "scope": "/",
   "start_url": "/",
-  "name": "TikTok-ZHY",
-  "short_name": "TikTok-ZHY",
-  "description": "TikTok, also known in China as Douyin, is a short-form video hosting service owned by the Chinese company ByteDance. It hosts user-submitted videos, which can range in duration from 3 seconds to 10 minutes.",
+  "name": "Vibeskit",
+  "short_name": "Vibeskit",
+  "description": "Vibeskit is a reels/shorts sharing platform owned by Vamshi Nagidi and powered by AL dhabitech and Bexa2LLC. It allow users to create contents which can range 3 seconds to 10mins ",
   "icons": [
     {
       "src": "/icon-192x192.png",
